@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/yangyunying/SpringAndIoc.git" uploadOnCheckin="df7158fa-bd4a-4fc4-ac2e-0cb3195ec9f1">
+    <serverData>
+      <paths name="https://github.com/yangyunying/SpringAndIoc.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/yangyunying/SpringAndIoc.git" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df7158fa-bd4a-4fc4-ac2e-0cb3195ec9f1" name="https://github.com/yangyunying/SpringAndIoc.git" url="https://github.com/yangyunying/SpringAndIoc.git">
+        <fileTransfer host="https://github.com/yangyunying/SpringAndIoc.git" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
